@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>vim-jp - issues</title>
+		<title>japan-openfoam-committers - issues</title>
 		<meta charset="utf-8"/>
 		<link href='//fonts.googleapis.com/css?family=Prosto One' rel='stylesheet' type='text/css'/>
 		<link rel="stylesheet" type="text/css" href="styles.css"/>
@@ -12,14 +12,14 @@
 	</head>
 	<body>
 		<header id="global-header">
-			<h1><a href="/">vim-jp</a></h1>
-			<p class="description">issues on vim-jp</p>
+			<h1><a href="/">japan-openfoam-committers</a></h1>
+			<p class="description">issues on japan-openfoam-committers</p>
 		</header>
 
 		<div id="content">
 			<section class="issues active-issues">
 				<h1>Active Issues</h1>
-				<script src="githubapi.js" data-api="repos/vim-jp/issues/issues?sort=updated;state=open;direction=desc">
+				<script src="githubapi.js" data-api="repos/japan-openfoam-committers/issues/issues?sort=updated;state=open;direction=desc">
 					<div class="issues">
 					<% for (var i = 0, it; (it = data[i]); i++) { %>
 						<div class="issue <%= it.state %>">
@@ -34,7 +34,7 @@
 			</section>
 			<section class="issues fixed-issues">
 				<h1>Fixed Issues</h1>
-				<script src="githubapi.js" data-api="repos/vim-jp/issues/issues?sort=updated;state=closed;direction=desc">
+				<script src="githubapi.js" data-api="repos/japan-openfoam-committers/issues/issues?sort=updated;state=closed;direction=desc">
 					<div class="issues">
 					<% for (var i = 0, it; (it = data[i]); i++) { %>
 						<div class="issue <%= it.state %>">

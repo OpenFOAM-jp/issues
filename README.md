@@ -5,7 +5,7 @@ issues
 
 ## 運営方法について
 
-報告者の方は[こちら](https://github.com/vim-jp/issues/wiki/Reporter)をご覧ください。
+報告者の方は[こちら（作成中）](https://github.com/japan-openfoam-committers/issues/wiki/Reporter)をご覧ください。
 
-vim-jp メンバの方は[こちら](https://github.com/vim-jp/issues/wiki/Member)をご覧下さい。
+Japan-OpenFOAM-Committers メンバの方は[こちら（作成中）](https://github.com/japan-openfoam-committers/issues/wiki/Member)をご覧下さい。
 
