@@ -24,17 +24,18 @@ assignees: ''
 
 (実現方法について検討済みであるなら)
 
-## Vimのバージョン
+## OpenFOAMのバージョン
 
-8.1.????
+v1906 or V7 or others
 
-( `:version` で確認できます)
+( `echo $WM_PROJECT_VERSION` で確認できます)
 
 ## OSの種類/ディストリ/バージョン
 
 (なるべく詳しく書いてください 記述例:)
 
-*   Windows 10 Pro 64bit (10.0.10586)
+*   Ubuntu 18.04 LTS
+*   Ubuntu 19.04 (VirtualBox in Windows 10 Pro 64bit (10.0.10586))
 *   macOS Sierra
 *   Linux fedora 23 64bit
 *   Others
